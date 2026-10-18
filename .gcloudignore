@@ -1,0 +1,16 @@
+﻿.gcloudignore
+.gcloud/
+.git/
+.gitignore
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+*.log
+*backup*
+*Backup*
+*BACKUP*
+*original*
+*Original*
+*ORIGINAL*

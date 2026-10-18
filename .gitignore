@@ -1,0 +1,38 @@
+﻿node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.*.template
+
+# Backups and temporary files
+*~
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+backup/
+backups/
+Backup/
+Backups/
+original/
+originals/
+Original/
+Originals/
+
+# Build and local tooling
+node_modules/
+dist/
+coverage/
+*.log
